@@ -1,0 +1,13 @@
+{
+  "name": "vocabulary-learning",
+  "version": "1.0.0",
+  "description": "Nền tảng học từ vựng - Vocabulary learning platform",
+  "main": "vocabulary-app.html",
+  "scripts": {
+    "dev": "npx http-server . -p 3000",
+    "start": "npx http-server . -p 8080"
+  },
+  "keywords": ["vocabulary", "learning", "flashcard", "education"],
+  "author": "Vocabulary Team",
+  "license": "MIT"
+}
